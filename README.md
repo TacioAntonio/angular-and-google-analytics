@@ -80,7 +80,7 @@ export class MyComponent implements OnInit {
 }
 ```
 
-### Installation
+## Installation
 ```sh
 $ git clone https://github.com/TacioAntonio/angular-and-google-analytics
 $ cd angular-and-google-analytics
