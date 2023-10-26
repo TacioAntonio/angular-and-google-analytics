@@ -3,7 +3,7 @@
 
 # Firebase and Google Analytics
 O Firebase é uma plataforma de desenvolvimento de aplicativos móveis e web desenvolvida pela Google. Ele fornece um conjunto abrangente de ferramentas e serviços para ajudar os desenvolvedores a criar aplicativos de alta qualidade, escaláveis e seguros.
-Um de seus serviços é o Analytics, que é um rescurso que pode ser usado em seu aplicativo, afim de obter
+Um de seus serviços é o Analytics, que é um recurso que pode ser usado em seu aplicativo, afim de obter
 insights sobre o uso e o envolvimento do usuário. - PT/BR
 >Com os relatórios do Analytics, você entende claramente o comportamento dos usuários e pode tomar melhores decisões sobre marketing e otimizações de desempenho do app. - [Google Analytics](https://firebase.google.com/docs/analytics)
 
